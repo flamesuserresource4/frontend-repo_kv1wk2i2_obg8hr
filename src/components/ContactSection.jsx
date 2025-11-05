@@ -76,7 +76,7 @@ export default function ContactSection() {
                 <div>
                   <p className="font-semibold text-neutral-900">Showroom</p>
                   <p className="text-sm text-neutral-600">
-                    Sandy Tiles, Main Market Road, Your City 123456
+                    KAG & Anuj Tiles, Main Market Road, Your City 123456
                   </p>
                 </div>
               </div>
@@ -95,7 +95,7 @@ export default function ContactSection() {
                 </div>
                 <div>
                   <p className="font-semibold text-neutral-900">Email</p>
-                  <p className="text-sm text-neutral-600">hello@sandytiles.com</p>
+                  <p className="text-sm text-neutral-600">hello@kaganujtiles.com</p>
                 </div>
               </div>
             </div>

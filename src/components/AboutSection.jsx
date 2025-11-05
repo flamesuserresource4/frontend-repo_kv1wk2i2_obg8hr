@@ -33,7 +33,7 @@ export default function AboutSection() {
               Your trusted tile partner
             </h2>
             <p className="mt-4 text-neutral-600">
-              At Sandy Tiles, we help you create beautiful, lasting spaces. Whether you’re renovating a kitchen, upgrading a bathroom, or building from scratch, our curated selection of tiles brings together style, performance, and value.
+              At KAG & Anuj Tiles, we help you create beautiful, lasting spaces. Whether you’re renovating a kitchen, upgrading a bathroom, or building from scratch, our curated selection of tiles brings together style, performance, and value.
             </p>
             <p className="mt-3 text-neutral-600">
               Visit our showroom to see full-size displays, touch real samples, and get expert advice tailored to your project.

@@ -9,11 +9,11 @@ export default function App() {
       <header className="sticky top-0 z-40 border-b border-neutral-200 bg-white/80 backdrop-blur">
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-3 lg:px-8">
           <a href="#home" className="text-lg font-extrabold tracking-tight">
-            Sandy Tiles
+            KAG & Anuj Tiles
           </a>
           <nav className="hidden gap-6 text-sm font-medium text-neutral-700 sm:flex">
             <a href="#collection" className="hover:text-neutral-900">
-              Collection
+              Products
             </a>
             <a href="#about" className="hover:text-neutral-900">
               About
@@ -34,7 +34,7 @@ export default function App() {
 
       <footer className="border-t border-neutral-200 bg-neutral-50">
         <div className="mx-auto max-w-7xl px-6 py-8 text-center text-sm text-neutral-600 lg:px-8">
-          © {new Date().getFullYear()} Sandy Tiles. All rights reserved.
+          © {new Date().getFullYear()} KAG & Anuj Tiles. All rights reserved.
         </div>
       </footer>
     </div>
